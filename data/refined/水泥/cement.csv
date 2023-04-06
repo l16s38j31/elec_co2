@@ -1,4 +1,4 @@
-﻿Year,Location,cement production[10^4t],Clinker production[10^4t],Clinker-to-cement ratios,Coal consumption[10^4t],Electricity consumption[10kWh],Process-related CO2 emissions[10^4t],Coal-related CO2 emissions[10^4t],Electricity-related CO2 emissions[10^4t],Total CO2[10^4t]
+Year,Location,cement production[10^4t],Clinker production[10^4t],Clinker-to-cement ratios,Coal consumption[10^4t],Electricity consumption[10kWh],Process-related CO2 emissions[10^4t],Coal-related CO2 emissions[10^4t],Electricity-related CO2 emissions[10^4t],Total CO2[10^4t]
 1996,Beijing,657,421.0484488,0.655531747,88.75149104,107.0217329,209.00845,44.28699403,107.0217329,360.3171769
 1996,Tianjin,205,94.21547083,0.46989384,23.70147632,22.955783,46.76855972,11.82703668,22.955783,81.55137941
 1996,Hebei,3360,1815.335351,0.552440064,322.1868724,229.6455563,901.1324684,160.7712493,229.6455563,1291.549274
